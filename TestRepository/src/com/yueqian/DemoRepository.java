@@ -1,9 +1,9 @@
 package com.yueqian;
 
 public interface DemoRepository {
-	void add();
 	void delete();
 	void update();
 	void query();
 	void query1();
+	void query3();
 }
