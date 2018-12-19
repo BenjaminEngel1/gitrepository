@@ -5,4 +5,5 @@ public interface DemoRepository {
 	void delete();
 	void update();
 	void query();
+	void query1();
 }
