@@ -6,4 +6,5 @@ public interface DemoRepository {
 	void query();
 	void query1();
 	void query3();
+	void query5();
 }
